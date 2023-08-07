@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-class Rectangle
+class Rectangle 
 {
     private:
     int length,breadth;
@@ -36,7 +36,7 @@ class Rectangle
     };
 int main()
 {
-    Rectangle recObj;
+    Rectangle recObj; // recobj (object of rectangle)
     recObj.setLength(10);
     recObj.setBreadth(20);
 
