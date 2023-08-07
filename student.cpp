@@ -21,7 +21,8 @@ class Student
     {
         return rollNo;
     }
-    
+
+    //charcters 
     //setters
     void setname(char *n)
     {

@@ -10,7 +10,7 @@ class Rectangle
         return length*breadth;
     }
 
-    };
+};
 int main()
 {
     Rectangle recObj; // recobj (object of rectangle)
