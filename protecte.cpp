@@ -20,6 +20,7 @@ class Shape
 
 class Rectangle : public Shape
 {
+    // protected members are inherited here
     public :
     int area()
     {
