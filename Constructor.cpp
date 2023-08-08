@@ -6,8 +6,8 @@ class A
     int i;      //automatically it is private
 
     public:
-    // default
-    A();
+
+    A();     // default constructors
     
 };
 
