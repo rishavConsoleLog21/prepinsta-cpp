@@ -13,7 +13,7 @@ class A
     int z;
 };
 
-class B : public A
+class B : public A //class derived-class: visibility-mode base-class
 {
     //x is inherited and public in child
     //y is inherited and protected in child
