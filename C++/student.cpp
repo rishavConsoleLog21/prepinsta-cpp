@@ -1,6 +1,8 @@
 #include<iostream>
 #include<string.h>
 using namespace std;
+
+
 static int i=0;
 class Student
 {
