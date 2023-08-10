@@ -47,7 +47,7 @@ int main()
 }
 
 //output :  The values are 10 & 0
-//           The values are 1000 & 0
+//           The values are 1000 & 0 
 
 
 
