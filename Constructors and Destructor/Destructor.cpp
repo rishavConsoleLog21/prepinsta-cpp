@@ -19,7 +19,7 @@ class A
 int main()
 {
     
-    A object1; // constructor called for obj1  // It will go to constructor A()                                     //1 
+    A object1; // constructor called for obj1  // It will go to constructor A()    // c always checks first object                                 //1 
 
     int x=1;
     if(x)       // condition
