@@ -7,6 +7,7 @@ Output : binary number  = 1100100*/
 
 #include<iostream>
 using namespace std;
+
 class Decimal_Number
 {
 	public:
