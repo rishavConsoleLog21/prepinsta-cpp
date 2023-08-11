@@ -2,8 +2,7 @@
 
 Input : n=100
 
-Output : binary number  = 1100100*/
-
+Output : binary number = 1100100*/
 
 #include<iostream>
 using namespace std;
@@ -22,7 +21,7 @@ class Decimal_Number
 					i=i*10;
 					n=n/2;
 				}
-				cout<<"binary numbe="<<Binary_Number;
+				cout<<"binary number= "<<Binary_Number;
 			}
 		};
 		int main()
